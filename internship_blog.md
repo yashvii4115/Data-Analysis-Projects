@@ -91,9 +91,8 @@ Visualizations make data storytelling powerful.
 Real-world problems often require balancing multiple factors (cost, quality, efficiency).
 
 Conclusion & Reflection
-This internship was a bridge between academics and industry practice. Working on diverse projects gave me a wide perspective on how data analysis can impact different domains – from sports to healthcare to digital marketing.
-It not only improved my technical expertise but also boosted my confidence in solving real-world problems. Most importantly, it reinforced my passion for data analytics as a career path.
+This internship gave me a chance to work on seven diverse projects across multiple industries: sports, healthcare, customer service, marketing, governance, finance, and manufacturing. Each project was unique, yet all reinforced how powerful data analysis is for solving real-world problems.
+I feel more confident now in my ability to handle data-driven decision-making and look forward to applying these skills in future academic and professional opportunities.
 
 I am grateful to Samatrix Consulting for providing this opportunity and to my mentors and faculty at CHARUSAT for their constant support.
-
-👉 This was my journey into the world of Applied Data Analysis Projects. I look forward to building on this experience and taking on more challenging projects in the future.
+This was my journey into the world of Applied Data Analysis Projects. I look forward to building on this experience and taking on more challenging projects in the future.
